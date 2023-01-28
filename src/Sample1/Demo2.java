@@ -1,5 +1,11 @@
 package Sample1;
 
-public class Demo2 {
+public class Demo2 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("hello krishna..! Its nice to meet you..");
+		
+	}
 
 }
